@@ -1,0 +1,32 @@
+body {
+    height:100%;
+    background-image: url("the milky way.jpeg");
+
+}
+ {
+    /* The image used */
+    background-image: url("the milky way.jpeg");
+    / *Full height */
+    height: 100%;
+    / Center and scalre the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size; cover;
+}
+h1{
+    color:yellow;
+    text-align: center;
+    <img href=""
+}
+h4{
+    color:goldenrod;
+    text-align: left;
+}
+
+}
+
+    
+
+
+}
+}
