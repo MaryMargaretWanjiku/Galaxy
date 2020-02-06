@@ -2,6 +2,7 @@ body {
     height:100%;
     background-image: url("the milky way.jpeg");
 
+
 }
  {
     /* The image used */
@@ -16,7 +17,11 @@ body {
 h1{
     color:yellow;
     text-align: center;
-    <img href=""
+    height: max-content;
+}
+h3{
+    color: rgb(0, 225, 255);
+
 }
 h4{
     color:goldenrod;
@@ -29,10 +34,21 @@ p{
     text-align: left;
 }
 div{
-    color: cyan;
+    color:white
 }
-    
-
-
+a{
+    color:cyan
 }
+
+div > p {
+    color: lawngreen;
+}
+.grid-container{
+    display: grid;
+    font-size: large;
+   
+}
+div >class{
+    font-family: Cambria;
+
 }
